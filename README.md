@@ -1,4 +1,4 @@
-### Hi there 👋
+### C/C++, Rust, Typescript, Python, PHP, HTML/CSS
 
 <!--
 **leightoe/leightoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
